@@ -76,15 +76,3 @@ This project includes a pre-configured GitHub Actions workflow that:
 Location: `.github/workflows/maven-test.yml`
 
 ---
-
-## 🎬 Demo
-
-A simulated demo video of the test execution is available:  
-📽️ [amazon-regression-demo.mp4](sandbox:/mnt/data/amazon-regression-demo.mp4)
-
----
-
-## 📌 Author
-
-**Your Name**  
-Test Automation Engineer | Java + Selenium + CI/CD
